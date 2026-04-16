@@ -1,0 +1,436 @@
+[
+  {
+    "year": 2010,
+    "total_facilities": 6668,
+    "total_parents": 3854,
+    "top10_share_pct": 11.667666466706658,
+    "top10_facilities_sum": 779,
+    "top10_names": [
+      "Waste Management, Inc.",
+      "Republic Services, Inc.",
+      "Calpine Corporation",
+      "U.S. Government",
+      "ConocoPhillips",
+      "Anadarko Petroleum Corporation",
+      "El Paso Corporation",
+      "Xcel Energy, Inc.",
+      "The Williams Companies, Inc.",
+      "BP America Inc."
+    ],
+    "top10_counts": [
+      226,
+      184,
+      63,
+      57,
+      51,
+      44,
+      41,
+      38,
+      38,
+      37
+    ]
+  },
+  {
+    "year": 2011,
+    "total_facilities": 7989,
+    "total_parents": 4119,
+    "top10_share_pct": 9.375391162848917,
+    "top10_facilities_sum": 815,
+    "top10_names": [
+      "Waste Management, Inc.",
+      "Republic Services, Inc.",
+      "CONOCO PHILLIPS",
+      "EL PASO CORP",
+      "CALPINE CORP",
+      "CHEVRON CORP",
+      "DOMINION RESOURCES INC",
+      "SPECTRA ENERGY CORP",
+      "Williams Field Services Group, LLC",
+      "BP AMERICA INC"
+    ],
+    "top10_counts": [
+      208,
+      171,
+      75,
+      74,
+      62,
+      47,
+      47,
+      46,
+      43,
+      42
+    ]
+  },
+  {
+    "year": 2012,
+    "total_facilities": 8398,
+    "total_parents": 4397,
+    "top10_share_pct": 10.03810431055013,
+    "top10_facilities_sum": 852,
+    "top10_names": [
+      "Waste Management, Inc.",
+      "Republic Services, Inc.",
+      "ENERGY TRANSFER PARTNERS, LP",
+      "CALPINE CORP",
+      "EXXONMOBIL CORP",
+      "Kinder Morgan Energy Partners, L.P.",
+      "DUKE ENERGY CORP",
+      "CHEVRON CORP",
+      "Williams Field Services Group, LLC",
+      "DOMINION RESOURCES INC"
+    ],
+    "top10_counts": [
+      235,
+      160,
+      74,
+      61,
+      60,
+      56,
+      56,
+      53,
+      49,
+      48
+    ]
+  },
+  {
+    "year": 2013,
+    "total_facilities": 8496,
+    "total_parents": 4455,
+    "top10_share_pct": 10.769774011299434,
+    "top10_facilities_sum": 915,
+    "top10_names": [
+      "Waste Management, Inc.",
+      "Republic Services, Inc.",
+      "WILLIAMS PARTNERS, LP",
+      "ENERGY TRANSFER PARTNERS, LP",
+      "Kinder Morgan Energy Partners, L.P.",
+      "EXXONMOBIL CORP",
+      "US GOVERNMENT",
+      "CALPINE CORP",
+      "DUKE ENERGY CORP",
+      "KOCH INDUSTRIES INC"
+    ],
+    "top10_counts": [
+      233,
+      138,
+      94,
+      79,
+      69,
+      65,
+      65,
+      61,
+      56,
+      55
+    ]
+  },
+  {
+    "year": 2014,
+    "total_facilities": 8731,
+    "total_parents": 4506,
+    "top10_share_pct": 11.797045012026114,
+    "top10_facilities_sum": 1039,
+    "top10_names": [
+      "WASTE MANAGEMENT INC",
+      "REPUBLIC SERVICES, INC",
+      "EXXONMOBIL CORP",
+      "WILLIAMS PARTNERS, LP",
+      "ENERGY TRANSFER PARTNERS, LP",
+      "Kinder Morgan Energy Partners, L.P.",
+      "ANADARKO PETROLEUM CORP",
+      "US GOVERNMENT",
+      "CHEVRON CORP",
+      "CALPINE CORP"
+    ],
+    "top10_counts": [
+      231,
+      178,
+      112,
+      108,
+      84,
+      71,
+      69,
+      66,
+      63,
+      57
+    ]
+  },
+  {
+    "year": 2015,
+    "total_facilities": 8587,
+    "total_parents": 3495,
+    "top10_share_pct": 13.578665424478864,
+    "top10_facilities_sum": 1190,
+    "top10_names": [
+      "WASTE MANAGEMENT INC",
+      "REPUBLIC SERVICES INC",
+      "KINDER MORGAN INC",
+      "WILLIAMS PARTNERS, LP",
+      "CHEVRON CORP",
+      "US GOVERNMENT",
+      "ENERGY TRANSFER PARTNERS LP",
+      "EXXON MOBIL CORP",
+      "KOCH INDUSTRIES INC",
+      "MARATHON PETROLEUM CO LP"
+    ],
+    "top10_counts": [
+      221,
+      169,
+      160,
+      135,
+      94,
+      91,
+      87,
+      84,
+      76,
+      73
+    ]
+  },
+  {
+    "year": 2016,
+    "total_facilities": 8216,
+    "total_parents": 3383,
+    "top10_share_pct": 13.984907497565725,
+    "top10_facilities_sum": 1181,
+    "top10_names": [
+      "WASTE MANAGEMENT INC",
+      "KINDER MORGAN INC",
+      "REPUBLIC SERVICES INC",
+      "EXXONMOBIL CORP",
+      "ENERGY TRANSFER PARTNERS LP",
+      "US GOVERNMENT",
+      "KOCH INDUSTRIES INC",
+      "WILLIAMS PARTNERS, LP",
+      "CHEVRON CORP",
+      "NRG ENERGY INC"
+    ],
+    "top10_counts": [
+      216,
+      210,
+      168,
+      106,
+      106,
+      88,
+      75,
+      73,
+      73,
+      66
+    ]
+  },
+  {
+    "year": 2017,
+    "total_facilities": 8142,
+    "total_parents": 3360,
+    "top10_share_pct": 13.976909850159666,
+    "top10_facilities_sum": 1170,
+    "top10_names": [
+      "KINDER MORGAN INC",
+      "WASTE MANAGEMENT INC",
+      "REPUBLIC SERVICES INC",
+      "ENERGY TRANSFER PARTNERS LP",
+      "EXXONMOBIL CORP",
+      "US GOVERNMENT",
+      "KOCH INDUSTRIES INC",
+      "WILLIAMS PARTNERS LP",
+      "NRG ENERGY INC",
+      "CHEVRON CORP"
+    ],
+    "top10_counts": [
+      216,
+      214,
+      168,
+      107,
+      104,
+      86,
+      78,
+      72,
+      63,
+      62
+    ]
+  },
+  {
+    "year": 2018,
+    "total_facilities": 8268,
+    "total_parents": 3527,
+    "top10_share_pct": 13.969521044992742,
+    "top10_facilities_sum": 1175,
+    "top10_names": [
+      "KINDER MORGAN INC",
+      "WASTE MANAGEMENT INC",
+      "REPUBLIC SERVICES INC",
+      "ENERGY TRANSFER PARTNERS LP",
+      "EXXONMOBIL CORP",
+      "US GOVERNMENT",
+      "KOCH INDUSTRIES INC",
+      "THE WILLIAMS COS",
+      "ENTERPRISE PRODUCTS PARTNERS LP",
+      "DOMINION ENERGY INC"
+    ],
+    "top10_counts": [
+      217,
+      213,
+      169,
+      114,
+      97,
+      86,
+      78,
+      74,
+      65,
+      62
+    ]
+  },
+  {
+    "year": 2019,
+    "total_facilities": 8282,
+    "total_parents": 3402,
+    "top10_share_pct": 14.803187635836755,
+    "top10_facilities_sum": 1250,
+    "top10_names": [
+      "KINDER MORGAN INC",
+      "WASTE MANAGEMENT INC",
+      "REPUBLIC SERVICES INC",
+      "ENERGY TRANSFER LP",
+      "EXXON MOBIL CORP",
+      "BERKSHIRE HATHAWAY INC",
+      "US GOVERNMENT",
+      "THE WILLIAMS COS INC",
+      "ENTERPRISE PRODUCTS PARTNERS LP",
+      "KOCH INDUSTRIES INC"
+    ],
+    "top10_counts": [
+      229,
+      212,
+      165,
+      140,
+      100,
+      97,
+      86,
+      76,
+      73,
+      72
+    ]
+  },
+  {
+    "year": 2020,
+    "total_facilities": 8248,
+    "total_parents": 3415,
+    "top10_share_pct": 15.42192046556741,
+    "top10_facilities_sum": 1295,
+    "top10_names": [
+      "KINDER MORGAN INC",
+      "WASTE MANAGEMENT INC",
+      "REPUBLIC SERVICES INC",
+      "ENERGY TRANSFER LP",
+      "BERKSHIRE HATHAWAY INC",
+      "EXXON MOBIL CORP",
+      "US GOVERNMENT",
+      "ENTERPRISE PRODUCTS PARTNERS LP",
+      "THE WILLIAMS COS INC",
+      "KOCH INDUSTRIES INC"
+    ],
+    "top10_counts": [
+      234,
+      228,
+      162,
+      142,
+      130,
+      96,
+      82,
+      76,
+      75,
+      70
+    ]
+  },
+  {
+    "year": 2021,
+    "total_facilities": 8212,
+    "total_parents": 3317,
+    "top10_share_pct": 16.098392596200682,
+    "top10_facilities_sum": 1348,
+    "top10_names": [
+      "KINDER MORGAN INC",
+      "WASTE MANAGEMENT INC",
+      "ENERGY TRANSFER LP",
+      "REPUBLIC SERVICES INC",
+      "BERKSHIRE HATHAWAY INC",
+      "EXXON MOBIL CORP",
+      "US GOVERNMENT",
+      "THE WILLIAMS COS INC",
+      "ENTERPRISE PRODUCTS PARTNERS LP",
+      "KOCH INDUSTRIES INC"
+    ],
+    "top10_counts": [
+      237,
+      227,
+      195,
+      164,
+      131,
+      99,
+      84,
+      76,
+      71,
+      64
+    ]
+  },
+  {
+    "year": 2022,
+    "total_facilities": 8175,
+    "total_parents": 3339,
+    "top10_share_pct": 16.672782874617738,
+    "top10_facilities_sum": 1389,
+    "top10_names": [
+      "KINDER MORGAN INC",
+      "WASTE MANAGEMENT INC",
+      "ENERGY TRANSFER LP",
+      "REPUBLIC SERVICES INC",
+      "BERKSHIRE HATHAWAY INC",
+      "TRANSCANADA PIPELINE USA LTD",
+      "EXXON MOBIL CORP",
+      "US GOVERNMENT",
+      "THE WILLIAMS COS INC",
+      "ENTERPRISE PRODUCTS PARTNERS LP"
+    ],
+    "top10_counts": [
+      232,
+      225,
+      178,
+      177,
+      131,
+      117,
+      92,
+      85,
+      80,
+      72
+    ]
+  },
+  {
+    "year": 2023,
+    "total_facilities": 8106,
+    "total_parents": 3327,
+    "top10_share_pct": 16.74068591167037,
+    "top10_facilities_sum": 1376,
+    "top10_names": [
+      "KINDER MORGAN INC",
+      "WASTE MANAGEMENT INC",
+      "ENERGY TRANSFER LP",
+      "REPUBLIC SERVICES INC",
+      "BERKSHIRE HATHAWAY INC",
+      "TRANSCANADA PIPELINE USA LTD",
+      "US GOVERNMENT",
+      "THE WILLIAMS COS INC",
+      "ENTERPRISE PRODUCTS PARTNERS LP",
+      "PHILLIPS 66"
+    ],
+    "top10_counts": [
+      231,
+      225,
+      184,
+      177,
+      130,
+      116,
+      85,
+      81,
+      75,
+      72
+    ]
+  }
+]

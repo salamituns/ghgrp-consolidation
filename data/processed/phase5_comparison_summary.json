@@ -1,0 +1,116 @@
+{
+  "methodology": "any-stake union: facility counts toward a parent if parent appears in any ownership row",
+  "recomputed_2010_pct": 11.667666466706658,
+  "recomputed_2023_pct": 16.74068591167037,
+  "recomputed_absolute_delta_pp": 5.073019444963711,
+  "recomputed_relative_growth_pct": 43.47929776223396,
+  "published_2010_pct": 11.7,
+  "published_2023_pct": 18.0,
+  "published_absolute_delta_pp": 6.300000000000001,
+  "published_relative_growth_pct": 53.846153846153854,
+  "diff_2010_pp": -0.03233353329334143,
+  "diff_2023_pp": -1.2593140883296314,
+  "year_by_year": [
+    {
+      "year": 2010,
+      "top10_share_pct": 11.667666466706658
+    },
+    {
+      "year": 2011,
+      "top10_share_pct": 9.375391162848917
+    },
+    {
+      "year": 2012,
+      "top10_share_pct": 10.03810431055013
+    },
+    {
+      "year": 2013,
+      "top10_share_pct": 10.769774011299434
+    },
+    {
+      "year": 2014,
+      "top10_share_pct": 11.797045012026114
+    },
+    {
+      "year": 2015,
+      "top10_share_pct": 13.578665424478864
+    },
+    {
+      "year": 2016,
+      "top10_share_pct": 13.984907497565725
+    },
+    {
+      "year": 2017,
+      "top10_share_pct": 13.976909850159666
+    },
+    {
+      "year": 2018,
+      "top10_share_pct": 13.969521044992742
+    },
+    {
+      "year": 2019,
+      "top10_share_pct": 14.803187635836755
+    },
+    {
+      "year": 2020,
+      "top10_share_pct": 15.42192046556741
+    },
+    {
+      "year": 2021,
+      "top10_share_pct": 16.098392596200682
+    },
+    {
+      "year": 2022,
+      "top10_share_pct": 16.672782874617738
+    },
+    {
+      "year": 2023,
+      "top10_share_pct": 16.74068591167037
+    }
+  ],
+  "top10_persistence": {
+    "Waste Management, Inc.": 4,
+    "Republic Services, Inc.": 4,
+    "Calpine Corporation": 1,
+    "U.S. Government": 1,
+    "ConocoPhillips": 1,
+    "Anadarko Petroleum Corporation": 1,
+    "El Paso Corporation": 1,
+    "Xcel Energy, Inc.": 1,
+    "The Williams Companies, Inc.": 1,
+    "BP America Inc.": 1,
+    "CONOCO PHILLIPS": 1,
+    "EL PASO CORP": 1,
+    "CALPINE CORP": 4,
+    "CHEVRON CORP": 6,
+    "DOMINION RESOURCES INC": 2,
+    "SPECTRA ENERGY CORP": 1,
+    "Williams Field Services Group, LLC": 2,
+    "BP AMERICA INC": 1,
+    "ENERGY TRANSFER PARTNERS, LP": 3,
+    "EXXONMOBIL CORP": 6,
+    "Kinder Morgan Energy Partners, L.P.": 3,
+    "DUKE ENERGY CORP": 2,
+    "WILLIAMS PARTNERS, LP": 4,
+    "US GOVERNMENT": 11,
+    "KOCH INDUSTRIES INC": 8,
+    "WASTE MANAGEMENT INC": 10,
+    "REPUBLIC SERVICES, INC": 1,
+    "ANADARKO PETROLEUM CORP": 1,
+    "REPUBLIC SERVICES INC": 9,
+    "KINDER MORGAN INC": 9,
+    "ENERGY TRANSFER PARTNERS LP": 4,
+    "EXXON MOBIL CORP": 5,
+    "MARATHON PETROLEUM CO LP": 1,
+    "NRG ENERGY INC": 2,
+    "WILLIAMS PARTNERS LP": 1,
+    "THE WILLIAMS COS": 1,
+    "ENTERPRISE PRODUCTS PARTNERS LP": 6,
+    "DOMINION ENERGY INC": 1,
+    "ENERGY TRANSFER LP": 5,
+    "BERKSHIRE HATHAWAY INC": 5,
+    "THE WILLIAMS COS INC": 5,
+    "TRANSCANADA PIPELINE USA LTD": 2,
+    "PHILLIPS 66": 1
+  }
+}

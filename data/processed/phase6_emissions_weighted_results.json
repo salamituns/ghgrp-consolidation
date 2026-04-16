@@ -1,0 +1,126 @@
+{
+  "sectors": {
+    "refineries": {
+      "label": "Refineries",
+      "total_emissions_MMT": 183.242775056,
+      "top10_share_pct": 79.61763568847968,
+      "top10_emissions": {
+        "EXXON MOBIL CORP": 27202127.6331554,
+        "MARATHON PETROLEUM CORP": 27180407.442,
+        "VALERO ENERGY CORP": 21263558.704,
+        "PHILLIPS 66": 18929318.34,
+        "CHEVRON CORP": 12917414.445391,
+        "PBF ENERGY INC": 10756376.618,
+        "BP AMERICA INC": 7843362.489,
+        "PDV AMERICA INC": 7818236.100000001,
+        "KOCH INDUSTRIES INC": 6967514.318,
+        "ARAMCO SERVICES CO": 5015248.98
+      }
+    },
+    "power": {
+      "label": "Power Plants",
+      "total_emissions_MMT": 1490.4890224831654,
+      "top10_share_pct": 35.869770421046866,
+      "top10_emissions": {
+        "Vistra Corp": 86315364.778,
+        "THE SOUTHERN CO": 75862388.88533172,
+        "DUKE ENERGY CORP": 72317600.8256672,
+        "BERKSHIRE HATHAWAY INC": 49404224.59020473,
+        "AMERICAN ELECTRIC POWER CO INC": 48790616.200848594,
+        "CPN MANAGEMENT LP": 47703517.04074,
+        "NEXTERA ENERGY INC": 42401200.089161664,
+        "US GOVERNMENT": 38210394.221,
+        "ENTERGY CORP": 38003301.9139876,
+        "XCEL ENERGY INC": 35626381.9706756
+      }
+    },
+    "petrochem": {
+      "label": "Petrochemicals",
+      "total_emissions_MMT": 277.941648739099,
+      "top10_share_pct": 52.57810629315826,
+      "top10_emissions": {
+        "EXXON MOBIL CORP": 25387110.116,
+        "CF INDUSTRIES HOLDINGS INC": 20579424.174,
+        "PHILLIPS 66": 16336505.146000002,
+        "CHEVRON CORP": 14938907.295,
+        "AIR PRODUCTS & CHEMICALS INC": 14072905.322,
+        "VALERO ENERGY CORP": 13128992.47,
+        "DOW INC": 12330275.796,
+        "KOCH INDUSTRIES INC": 11575105.423999999,
+        "MARATHON PETROLEUM CORP": 8999907.444,
+        "LINDE INC": 8787322.32
+      }
+    },
+    "oil_gas": {
+      "label": "Oil & Gas (Subpart W)",
+      "total_emissions_MMT": 256.2464195781997,
+      "top10_share_pct": 35.17934503455937,
+      "top10_emissions": {
+        "ENERGY TRANSFER LP": 14931767.8489,
+        "HILCORP ENERGY CO": 14476401.706,
+        "ENTERPRISE PRODUCTS PARTNERS LP": 10726975.573193906,
+        "EXXON MOBIL CORP": 9172966.617809638,
+        "TARGA RESOURCES CORP": 8475327.446497308,
+        "CONOCOPHILLIPS": 7915575.8177168,
+        "PHILLIPS 66": 7190412.268379121,
+        "THE WILLIAMS COS INC": 6951014.8348008,
+        "EOG RESOURCES INC": 5541343.59,
+        "CHEVRON CORP": 4764026.378822
+      }
+    },
+    "ghgrp_wide": {
+      "label": "GHGRP-wide",
+      "total_emissions_MMT": 2576.68561180808,
+      "top10_share_pct": 21.162821152377386,
+      "top10_emissions": {
+        "Vistra Corp": 86315364.778,
+        "THE SOUTHERN CO": 76691518.66728076,
+        "DUKE ENERGY CORP": 72621235.1676672,
+        "BERKSHIRE HATHAWAY INC": 52941788.30096684,
+        "AMERICAN ELECTRIC POWER CO INC": 48790616.200848594,
+        "CPN MANAGEMENT LP": 47703517.04074,
+        "NEXTERA ENERGY INC": 42858646.44716167,
+        "US GOVERNMENT": 41442121.703,
+        "ENTERGY CORP": 38052141.3249876,
+        "EXXON MOBIL CORP": 37882418.05533244
+      }
+    }
+  },
+  "comparison": [
+    {
+      "sector": "refineries",
+      "label": "Refineries",
+      "count_share_pct": 54.13533834586466,
+      "emissions_share_pct": 79.61763568847968,
+      "delta_pp": 25.48229734261502
+    },
+    {
+      "sector": "oil_gas",
+      "label": "Oil & Gas",
+      "count_share_pct": 27.076064200976973,
+      "emissions_share_pct": 35.17934503455937,
+      "delta_pp": 8.103280833582396
+    },
+    {
+      "sector": "petrochem",
+      "label": "Petrochemicals",
+      "count_share_pct": 25.757575757575758,
+      "emissions_share_pct": 52.57810629315826,
+      "delta_pp": 26.8205305355825
+    },
+    {
+      "sector": "power",
+      "label": "Power Plants",
+      "count_share_pct": 23.636363636363637,
+      "emissions_share_pct": 35.869770421046866,
+      "delta_pp": 12.233406784683229
+    },
+    {
+      "sector": "ghgrp_wide",
+      "label": "GHGRP-wide",
+      "count_share_pct": 16.740685911670365,
+      "emissions_share_pct": 21.162821152377386,
+      "delta_pp": 4.422135240707021
+    }
+  ]
+}

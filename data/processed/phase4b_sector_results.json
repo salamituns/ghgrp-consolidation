@@ -1,0 +1,92 @@
+{
+  "power": {
+    "label": "Power Plants",
+    "total_facilities": 1320,
+    "unique_parents": 596,
+    "top10_share_pct": 23.636363636363637,
+    "top10": {
+      "CPN MANAGEMENT LP": 44,
+      "DUKE ENERGY CORP": 40,
+      "Vistra Corp": 39,
+      "BERKSHIRE HATHAWAY INC": 36,
+      "XCEL ENERGY INC": 31,
+      "THE SOUTHERN CO": 27,
+      "ENTERGY CORP": 26,
+      "AMERICAN ELECTRIC POWER CO INC": 25,
+      "DOMINION ENERGY INC": 24,
+      "LS Power Development, LLC": 22
+    }
+  },
+  "refineries": {
+    "label": "Refineries",
+    "total_facilities": 133,
+    "unique_parents": 59,
+    "top10_share_pct": 54.13533834586466,
+    "top10": {
+      "VALERO ENERGY CORP": 14,
+      "MARATHON PETROLEUM CORP": 13,
+      "PHILLIPS 66": 12,
+      "PBF ENERGY INC": 6,
+      "PAR PACIFIC HOLDINGS INC": 5,
+      "HF SINCLAIR CORP": 5,
+      "CHEVRON CORP": 5,
+      "EXXON MOBIL CORP": 5,
+      "DELEK US HOLDINGS INC": 4,
+      "CALUMET SPECIALTY PRODUCTS PARTNERS LP": 4
+    }
+  },
+  "petrochem": {
+    "label": "Petrochemicals",
+    "total_facilities": 462,
+    "unique_parents": 208,
+    "top10_share_pct": 25.757575757575758,
+    "top10": {
+      "AIR PRODUCTS & CHEMICALS INC": 27,
+      "LINDE INC": 18,
+      "AMERICAN AIR LIQUIDE HOLDINGS INC": 12,
+      "PHILLIPS 66": 11,
+      "DOW INC": 10,
+      "CHEVRON CORP": 9,
+      "KOCH INDUSTRIES INC": 9,
+      "LYONDELLBASELL INDUSTRIES INC": 9,
+      "THE CHEMOURS CO": 9,
+      "VALERO ENERGY CORP": 8
+    }
+  },
+  "oil_gas": {
+    "label": "Oil & Gas",
+    "total_facilities": 1433,
+    "unique_parents": 593,
+    "top10_share_pct": 27.076064200976973,
+    "top10": {
+      "ENERGY TRANSFER LP": 89,
+      "KINDER MORGAN INC": 45,
+      "PHILLIPS 66": 44,
+      "TARGA RESOURCES CORP": 44,
+      "ENTERPRISE PRODUCTS PARTNERS LP": 44,
+      "ENBRIDGE (US) INC": 40,
+      "EXXON MOBIL CORP": 35,
+      "THE WILLIAMS COS INC": 34,
+      "MPLX LP": 33,
+      "EOG RESOURCES INC": 30
+    }
+  },
+  "ghgrp_wide": {
+    "label": "GHGRP-wide",
+    "total_facilities": 8106,
+    "unique_parents": 3327,
+    "top10_share_pct": 16.740685911670365,
+    "top10": {
+      "KINDER MORGAN INC": 231,
+      "WASTE MANAGEMENT INC": 225,
+      "ENERGY TRANSFER LP": 184,
+      "REPUBLIC SERVICES INC": 177,
+      "BERKSHIRE HATHAWAY INC": 130,
+      "TRANSCANADA PIPELINE USA LTD": 116,
+      "US GOVERNMENT": 85,
+      "THE WILLIAMS COS INC": 81,
+      "ENTERPRISE PRODUCTS PARTNERS LP": 75,
+      "PHILLIPS 66": 72
+    }
+  }
+}

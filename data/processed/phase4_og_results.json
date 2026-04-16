@@ -1,0 +1,46 @@
+{
+  "og_total_facilities": 1433,
+  "og_with_coords": 1432,
+  "og_unique_parents": 593,
+  "og_top10_share_pct": 27.076064200976973,
+  "ghgrp_wide_top10_share_pct": 16.74068591167037,
+  "concentration_multiplier": 1.6173808136560008,
+  "top10_og": {
+    "ENERGY TRANSFER LP": 89,
+    "KINDER MORGAN INC": 45,
+    "PHILLIPS 66": 44,
+    "TARGA RESOURCES CORP": 44,
+    "ENTERPRISE PRODUCTS PARTNERS LP": 44,
+    "ENBRIDGE (US) INC": 40,
+    "EXXON MOBIL CORP": 35,
+    "THE WILLIAMS COS INC": 34,
+    "MPLX LP": 33,
+    "EOG RESOURCES INC": 30
+  },
+  "top10_ghgrp_wide": {
+    "KINDER MORGAN INC": 231,
+    "WASTE MANAGEMENT INC": 225,
+    "ENERGY TRANSFER LP": 184,
+    "REPUBLIC SERVICES INC": 177,
+    "BERKSHIRE HATHAWAY INC": 130,
+    "TRANSCANADA PIPELINE USA LTD": 116,
+    "US GOVERNMENT": 85,
+    "THE WILLIAMS COS INC": 81,
+    "ENTERPRISE PRODUCTS PARTNERS LP": 75,
+    "PHILLIPS 66": 72
+  },
+  "shared_names": [
+    "ENERGY TRANSFER LP",
+    "ENTERPRISE PRODUCTS PARTNERS LP",
+    "KINDER MORGAN INC",
+    "PHILLIPS 66",
+    "THE WILLIAMS COS INC"
+  ],
+  "og_specific_names": [
+    "ENBRIDGE (US) INC",
+    "EOG RESOURCES INC",
+    "EXXON MOBIL CORP",
+    "MPLX LP",
+    "TARGA RESOURCES CORP"
+  ]
+}

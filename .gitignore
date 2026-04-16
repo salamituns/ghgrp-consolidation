@@ -1,0 +1,28 @@
+# Raw EPA/Census data (too large; see README for download links)
+data/raw/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.eggs/
+*.pkl
+
+# Temp files
+viz/animation_frames/temp_sequence/
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Internal strategy docs (not for public repo)
+DISTRIBUTION_AND_BRAND_STRATEGY.md
+
+# QGIS project files (platform-specific paths)
+qgis/

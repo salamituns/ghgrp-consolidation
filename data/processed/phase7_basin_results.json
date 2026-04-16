@@ -1,0 +1,86 @@
+{
+  "430 - Permian Basin": {
+    "pretty": "Permian",
+    "facility_count": 157,
+    "unique_parents": 130,
+    "top5": {
+      "Chevron": 5,
+      "Devon Energy": 4,
+      "Eagleclaw Midstream Services": 3,
+      "Callon Petroleum": 2,
+      "Coterra Energy": 2
+    },
+    "top1_share_pct": 3.1847133757961785,
+    "top5_share_pct": 10.19108280254777
+  },
+  "220 - Gulf Coast Basin (LA, TX)": {
+    "pretty": "Gulf Coast",
+    "facility_count": 89,
+    "unique_parents": 68,
+    "top5": {
+      "Bp America": 5,
+      "Kinder Morgan": 4,
+      "Ineos Usa Oil & Gas": 3,
+      "Hilcorp Energy": 3,
+      "Lewis Energy Group": 2
+    },
+    "top1_share_pct": 5.617977528089888,
+    "top5_share_pct": 15.730337078651685
+  },
+  "160A - Appalachian Basin (Eastern Overthrust Area)": {
+    "pretty": "Appalachian",
+    "facility_count": 81,
+    "unique_parents": 58,
+    "top5": {
+      "National Fuel Gas": 5,
+      "Dt Midstream": 3,
+      "Equitrans Midstream": 3,
+      "MPLX": 3,
+      "Greylock Energy": 2
+    },
+    "top1_share_pct": 6.172839506172839,
+    "top5_share_pct": 19.753086419753085
+  },
+  "360 - Anadarko Basin": {
+    "pretty": "Anadarko",
+    "facility_count": 56,
+    "unique_parents": 48,
+    "top5": {
+      "Unit": 2,
+      "Fourpoint Energy": 2,
+      "Scout Energy Management": 2,
+      "Formentera Operations": 2,
+      "Citizen Energy Iii": 2
+    },
+    "top1_share_pct": 3.5714285714285716,
+    "top5_share_pct": 17.857142857142858
+  },
+  "395 - Williston Basin": {
+    "pretty": "Williston",
+    "facility_count": 46,
+    "unique_parents": 38,
+    "top5": {
+      "Scout Energy Management": 2,
+      "ConocoPhillips": 2,
+      "Lime Rock Resources A": 2,
+      "Devon Energy": 2,
+      "EOG Resources": 2
+    },
+    "top1_share_pct": 4.3478260869565215,
+    "top5_share_pct": 21.73913043478261
+  },
+  "230 - Arkla Basin": {
+    "pretty": "Arkla",
+    "facility_count": 32,
+    "unique_parents": 26,
+    "top5": {
+      "Aethon United Br": 2,
+      "Diversified Gas & Oil": 2,
+      "Nadel & Gussman": 2,
+      "ExxonMobil": 2,
+      "Geosouthern Energy": 2
+    },
+    "top1_share_pct": 6.25,
+    "top5_share_pct": 31.25
+  }
+}

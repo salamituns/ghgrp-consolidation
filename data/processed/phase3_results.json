@@ -1,0 +1,25 @@
+{
+  "km_facilities_with_coords": 224,
+  "et_facilities_with_coords": 184,
+  "combined_facilities_with_coords": 391,
+  "km_facilities_total": 231,
+  "et_facilities_total": 184,
+  "combined_facilities_total": 398,
+  "us_total_population_tracts": 335559225.0,
+  "exposures": {
+    "KM 3km": 454061.0255856388,
+    "KM 10km": 4904197.066085352,
+    "ET 3km": 370696.90157344716,
+    "ET 10km": 4094053.949492141,
+    "Combined 3km": 701743.7908163253,
+    "Combined 10km": 7703643.288139816
+  },
+  "buffer_areas_km2": {
+    "km_3km": 5761.10021572108,
+    "km_10km": 62254.12149058254,
+    "et_3km": 4400.087013975185,
+    "et_10km": 45999.23592351777,
+    "combined_3km": 9587.130750541255,
+    "combined_10km": 100038.7822544566
+  }
+}

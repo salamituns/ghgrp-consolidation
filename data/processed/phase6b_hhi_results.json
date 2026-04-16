@@ -1,0 +1,68 @@
+{
+  "doj_thresholds": {
+    "unconcentrated_below": 1500,
+    "moderately_concentrated_range": [
+      1500,
+      2500
+    ],
+    "highly_concentrated_above": 2500,
+    "source": "DOJ Horizontal Merger Guidelines (2010)"
+  },
+  "sectors": {
+    "Refineries": {
+      "count_hhi": 431.6001387189779,
+      "count_hhi_category": "Unconcentrated",
+      "emissions_hhi": 848.8463342954954,
+      "emissions_hhi_category": "Unconcentrated",
+      "top3_by_emissions": {
+        "EXXON MOBIL CORP": 14.844856843519361,
+        "MARATHON PETROLEUM CORP": 14.833003611571328,
+        "VALERO ENERGY CORP": 11.604036610721346
+      }
+    },
+    "Oil & Gas": {
+      "count_hhi": 114.47657675074096,
+      "count_hhi_category": "Unconcentrated",
+      "emissions_hhi": 180.92398927447297,
+      "emissions_hhi_category": "Unconcentrated",
+      "top3_by_emissions": {
+        "ENERGY TRANSFER LP": 5.827874546471803,
+        "HILCORP ENERGY CO": 5.65014497148866,
+        "ENTERPRISE PRODUCTS PARTNERS LP": 4.186742556960324
+      }
+    },
+    "Petrochemicals": {
+      "count_hhi": 127.48282856861758,
+      "count_hhi_category": "Unconcentrated",
+      "emissions_hhi": 362.58936591060535,
+      "emissions_hhi_category": "Unconcentrated",
+      "top3_by_emissions": {
+        "EXXON MOBIL CORP": 9.13397118825852,
+        "CF INDUSTRIES HOLDINGS INC": 7.4042246879371785,
+        "PHILLIPS 66": 5.8776744040023
+      }
+    },
+    "Power Plants": {
+      "count_hhi": 84.36027513607388,
+      "count_hhi_category": "Unconcentrated",
+      "emissions_hhi": 182.50820375863825,
+      "emissions_hhi_category": "Unconcentrated",
+      "top3_by_emissions": {
+        "Vistra Corp": 5.791076853031629,
+        "THE SOUTHERN CO": 5.08976501946619,
+        "DUKE ENERGY CORP": 4.851937836159675
+      }
+    },
+    "GHGRP-wide": {
+      "count_hhi": 45.99811769416639,
+      "count_hhi_category": "Unconcentrated",
+      "emissions_hhi": 78.36426652351135,
+      "emissions_hhi_category": "Unconcentrated",
+      "top3_by_emissions": {
+        "Vistra Corp": 3.349903706293373,
+        "THE SOUTHERN CO": 2.9764017482351193,
+        "DUKE ENERGY CORP": 2.8184338381638465
+      }
+    }
+  }
+}
