@@ -25,7 +25,7 @@ FAINT = '#D9D2C4'
 df = pd.read_csv(f'{PROC}/phase8_timeseries_exposure.csv')
 df['pop_10km_m'] = df['pop_10km'] / 1e6
 
-fig, ax = plt.subplots(figsize=(12, 7.4), dpi=300, facecolor=PAPER)
+fig, ax = plt.subplots(figsize=(11.2, 6.3), dpi=300, facecolor=PAPER)
 ax.set_facecolor(PAPER)
 
 # --- Main series ---
@@ -130,10 +130,14 @@ ax.grid(axis='y', color=INK, alpha=0.07, lw=0.5)
 ax.set_ylabel('Millions of residents', color=INK, fontsize=10)
 ax.set_xlabel('Reporting year', color=INK, fontsize=10)
 
-# --- Footnote ---
+# --- Footnote (two-line wrap so the bbox stays tight to the axes width) ---
 ax.text(0.0, -0.14,
-        "Source: EPA GHGRP facility panel + Census ACS 5-year B01003 (tract-level), 10 km union buffers in EPSG:5070, area-weighted tract population.  "
-        "Milestone dates from EPA GHGRP rule history; Kinder Morgan 8-K (Nov 2014); Energy Transfer 10-K (2018); IRA \u00a7 60113 (Aug 2022).",
+        "Source: EPA GHGRP facility panel + Census ACS 5-year B01003 (tract-level), "
+        "10 km union buffers in EPSG:5070, area-weighted tract population.",
+        transform=ax.transAxes, fontsize=8, color=MUTED, fontfamily='sans-serif')
+ax.text(0.0, -0.175,
+        "Milestone dates from EPA GHGRP rule history; Kinder Morgan 8-K (Nov 2014); "
+        "Energy Transfer 10-K (2018); IRA \u00a7 60113 (Aug 2022).",
         transform=ax.transAxes, fontsize=8, color=MUTED, fontfamily='sans-serif')
 
 plt.tight_layout()
