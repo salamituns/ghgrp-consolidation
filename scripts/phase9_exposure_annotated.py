@@ -133,7 +133,8 @@ ax.set_xlabel('Reporting year', color=INK, fontsize=10)
 # --- Footnote (two-line wrap so the bbox stays tight to the axes width) ---
 ax.text(0.0, -0.14,
         "Source: EPA GHGRP facility panel + Census ACS 5-year B01003 (tract-level), "
-        "10 km union buffers in EPSG:5070, area-weighted tract population.",
+        "10 km union buffers in EPSG:5070, area-weighted tract population. "
+        "Analysis: @salamituns.",
         transform=ax.transAxes, fontsize=8, color=MUTED, fontfamily='sans-serif')
 ax.text(0.0, -0.175,
         "Milestone dates from EPA GHGRP rule history; Kinder Morgan 8-K (Nov 2014); "

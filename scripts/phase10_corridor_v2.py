@@ -152,7 +152,8 @@ for t in leg.get_texts():
 fig.text(0.035, 0.02,
          "Source: EPA GHGRP 2023 facility panel + Parent Company dataset (any-stake union per facility).  "
          "State outlines: Census 2010 5m cartographic.  "
-         "Extent: 97\u00b0W\u201381\u00b0W, 28.5\u00b0N\u201335.6\u00b0N.",
+         "Extent: 97\u00b0W\u201381\u00b0W, 28.5\u00b0N\u201335.6\u00b0N.  "
+         "Analysis: @salamituns.",
          fontsize=8, color=MUTED, fontfamily='sans-serif')
 
 plt.subplots_adjust(left=0.02, right=0.98, top=0.86, bottom=0.14)

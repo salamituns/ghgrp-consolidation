@@ -1,5 +1,5 @@
 """
-Phase 9 / Fig 10 — Waffle grid: 221M Americans within 10 km of a GHGRP reporter
+Phase 9 / Fig 10: Waffle grid: 221M Americans within 10 km of a GHGRP reporter
 as a 1000-square tactile grid, versus the full US population.
 
 Each square = 1/1000 of the 2023 US population (Census ACS).
@@ -85,7 +85,7 @@ ax.text(1.7, legend_y - 1.8, f"{100 - pct_2023:.1f}%  \u2014  everyone else",
 # --- Footnote ---
 ax.text(0, -7.5,
         "1 square = 1/1000 of the US population (2023). Proximity does not mean emissions exposure; see method note.\n"
-        "Source: EPA GHGRP 2023 facility panel + Census ACS 2019\u20132023 B01003.",
+        "Source: EPA GHGRP 2023 facility panel + Census ACS 2019\u20132023 B01003. Analysis: @salamituns.",
         fontsize=8, color=MUTED, fontfamily='sans-serif', va='top')
 
 plt.tight_layout()

@@ -1,5 +1,5 @@
 """
-Phase 9 / Fig 11 — Bump chart: rank evolution of the top parent operators
+Phase 9 / Fig 11: Bump chart: rank evolution of the top parent operators
 by GHGRP facility count, 2010 \u2192 2023.
 
 Renders the union of (top 10 in 2010) \u222a (top 10 in 2023). Operators not
@@ -214,7 +214,8 @@ ax.text(0.0, 1.045,
 # Footnote
 ax.text(0.0, -0.10,
         "Source: EPA GHGRP Parent Company dataset, any-stake union per facility-year. "
-        "Name canonicalization collapses corporate-form variants (e.g. Kinder Morgan Inc, KMP, El Paso Pipeline \u2192 Kinder Morgan once the 2014 roll-up closes).",
+        "Name canonicalization collapses corporate-form variants (e.g. Kinder Morgan Inc, KMP, El Paso Pipeline \u2192 Kinder Morgan once the 2014 roll-up closes). "
+        "Analysis: @salamituns.",
         transform=ax.transAxes, fontsize=8, color=MUTED, fontfamily='sans-serif', wrap=True)
 
 plt.tight_layout()

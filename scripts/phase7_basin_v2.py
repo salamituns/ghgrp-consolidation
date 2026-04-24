@@ -1,5 +1,5 @@
 """
-Phase 7 / Fig 09 v3 — Basin ownership personality, concentration-decay overlay.
+Phase 7 / Fig 09 v3: Basin ownership personality, concentration-decay overlay.
 
 Replaces the small-multiples top-5 bars (which muffled the story because
 small basins tie across ranks) with a single-panel decay chart: one
@@ -7,7 +7,7 @@ curve per basin, share-of-basin-facilities vs parent rank, ranks 1 to 20.
 
 The *shape* of each curve is the personality:
   - Steep left → one or two dominant parents (Appalachia, Arkla at the top)
-  - Flat low  → long-tail fragmentation (Permian — 130+ parents all small)
+  - Flat low  → long-tail fragmentation (Permian: 130+ parents all small)
 
 Each curve is labeled at rank 1 with the dominant parent and its share,
 so the "who" survives alongside the "shape".
@@ -136,7 +136,7 @@ for basin in TOP_BASINS:
                  for n, c in by_parent.head(5).items()],
     }
 
-# Sort basins by top-1 share descending — concentrated first
+# Sort basins by top-1 share descending: concentrated first
 ordered = sorted(TOP_BASINS, key=lambda b: -results[b]['top1_share_pct'])
 
 # ---------- 3. Render: single-panel concentration-decay overlay ----------
@@ -253,8 +253,8 @@ fig.text(0.058, 0.887,
 
 # ---------- 4. Footer ----------
 fig.text(0.058, 0.065,
-         "Source: EPA GHGRP 2023 — Onshore Oil & Gas Production and Gathering & Boosting sheets, "
-         "joined to the Parent Company dataset (any-stake rule).",
+         "Source: EPA GHGRP 2023, Onshore Oil & Gas Production and Gathering & Boosting sheets, "
+         "joined to the Parent Company dataset (any-stake rule). Analysis: @salamituns.",
          fontsize=8.5, color=MUTED, fontfamily='sans-serif')
 fig.text(0.058, 0.035,
          "Counter to sector-level concentration: at the basin level, ownership is long-tailed. "
